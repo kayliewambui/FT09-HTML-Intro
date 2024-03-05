@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;
+    h1{
+        color: brown;
+    }
+    h2{
+        color: chocolate;
+    }
+    h3{
+        color: coral;
+    }
+    h4{
+        color: crimson;
+    }
+    h5{
+        color: darkgoldenrod;
+    }
+    h6{
+        color: darkslategrey;
+    }
+}
